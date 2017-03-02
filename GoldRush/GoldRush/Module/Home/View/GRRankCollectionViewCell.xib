@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16C67" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="rank" id="gTV-IL-0wX" customClass="GRRankCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="80" height="100"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="80" height="100"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="OeO-cc-PcA">
+                        <rect key="frame" x="15" y="8" width="50" height="50"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="50" id="HQc-Th-PMK"/>
+                            <constraint firstAttribute="width" constant="50" id="SbI-Fe-Pb2"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ke4-Fk-vWM">
+                        <rect key="frame" x="30.5" y="58" width="19.5" height="8.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="7"/>
+                        <color key="textColor" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rtK-yq-Crm">
+                        <rect key="frame" x="29.5" y="66.5" width="21.5" height="10"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="8"/>
+                        <color key="textColor" red="0.83137254901960778" green="0.23529411764705882" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Gold_Medal.png" translatesAutoresizingMaskIntoConstraints="NO" id="FNY-ab-l6y">
+                        <rect key="frame" x="58" y="8" width="12" height="12"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="12" id="GW2-Yl-oFe"/>
+                            <constraint firstAttribute="width" constant="12" id="mu2-Vd-tiu"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="OeO-cc-PcA" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="2R3-qd-I2V"/>
+                <constraint firstAttribute="trailing" secondItem="FNY-ab-l6y" secondAttribute="trailing" constant="10" id="4gR-0b-mUv"/>
+                <constraint firstItem="FNY-ab-l6y" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="8" id="9D4-3m-k0m"/>
+                <constraint firstItem="rtK-yq-Crm" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="EIt-qY-MED"/>
+                <constraint firstItem="Ke4-Fk-vWM" firstAttribute="top" secondItem="OeO-cc-PcA" secondAttribute="bottom" id="Lj1-vJ-K6r"/>
+                <constraint firstItem="OeO-cc-PcA" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="8" id="goX-uR-wSf"/>
+                <constraint firstItem="rtK-yq-Crm" firstAttribute="top" secondItem="Ke4-Fk-vWM" secondAttribute="bottom" id="xoL-eQ-WuW"/>
+                <constraint firstItem="Ke4-Fk-vWM" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="ylf-hz-tuD"/>
+            </constraints>
+            <size key="customSize" width="237" height="299"/>
+            <connections>
+                <outlet property="iconImageView" destination="OeO-cc-PcA" id="mL5-5g-Wl1"/>
+                <outlet property="medalImageView" destination="FNY-ab-l6y" id="hlT-HK-VAX"/>
+                <outlet property="nickNameLabel" destination="Ke4-Fk-vWM" id="JW8-AO-qrS"/>
+                <outlet property="profitLabel" destination="rtK-yq-Crm" id="M6n-Jf-9PA"/>
+            </connections>
+            <point key="canvasLocation" x="-420" y="-106"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="Gold_Medal.png" width="12" height="12"/>
+    </resources>
+</document>

@@ -1,0 +1,13 @@
+//
+//  GRJoinPlan.m
+//  GoldRush
+//
+//  Created by Jack on 2017/1/2.
+//  Copyright © 2017年 Jack. All rights reserved.
+//
+
+#import "GRJoinPlan.h"
+
+@implementation GRJoinPlan
+
+@end
