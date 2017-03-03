@@ -132,7 +132,6 @@
 		046158FE1E13B6A70019F2A7 /* GRAnalyst.m in Sources */ = {isa = PBXBuildFile; fileRef = 046158FD1E13B6A70019F2A7 /* GRAnalyst.m */; };
 		046A237B1E0E1EBF002255D3 /* UIButton+GRButtonLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 046A237A1E0E1EBF002255D3 /* UIButton+GRButtonLayout.m */; };
 		046D3B381E580B98008A43D9 /* GRTransferAccountDetailHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 046D3B371E580B98008A43D9 /* GRTransferAccountDetailHeaderView.m */; };
-		046E72751E1632C200BD712E /* GRDiscusscellFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 046E72741E1632C200BD712E /* GRDiscusscellFrame.m */; };
 		046E72791E1653DB00BD712E /* UICountingLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 046E72781E1653DB00BD712E /* UICountingLabel.m */; };
 		046E727C1E16549200BD712E /* GRPropertyHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 046E727B1E16549200BD712E /* GRPropertyHeaderView.m */; };
 		046E72A21E1660FD00BD712E /* Dot@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 046E728C1E1660FD00BD712E /* Dot@2x.png */; };
@@ -336,7 +335,6 @@
 		04DAD7531E279A560045E0A4 /* GRHotEventsCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DAD7521E279A560045E0A4 /* GRHotEventsCell.m */; };
 		04DAD7561E27BD150045E0A4 /* GRHotEvents.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DAD7551E27BD150045E0A4 /* GRHotEvents.m */; };
 		04DAD7591E27C18E0045E0A4 /* GRHotEventHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DAD7581E27C18E0045E0A4 /* GRHotEventHeader.m */; };
-		04DB13E11E65267C00C785B0 /* GRHomeCycleImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DB13E01E65267C00C785B0 /* GRHomeCycleImage.m */; };
 		04E229ED1E480EF400A964F0 /* GRSchoolClickDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E229EC1E480EF400A964F0 /* GRSchoolClickDetailViewController.m */; };
 		04E229F11E480F6F00A964F0 /* GRSchoolDetailCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E229F01E480F6F00A964F0 /* GRSchoolDetailCell.m */; };
 		04E229F41E4811A800A964F0 /* School_Thicket@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04E229F21E4811A800A964F0 /* School_Thicket@2x.png */; };
@@ -367,14 +365,12 @@
 		04EC46231E63F5C8001F8B9D /* GoldRush_Guide_3@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EC461D1E63F5C8001F8B9D /* GoldRush_Guide_3@3x.png */; };
 		04EF2C2A1E668CD500C21E55 /* GRCalculateProfitLoss.m in Sources */ = {isa = PBXBuildFile; fileRef = 04EF2C291E668CD500C21E55 /* GRCalculateProfitLoss.m */; };
 		04EF2C2E1E66948100C21E55 /* GRContractServiceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04EF2C2D1E66948100C21E55 /* GRContractServiceViewController.m */; };
-		04EF2C311E66955200C21E55 /* GRContractServiceCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 04EF2C301E66955200C21E55 /* GRContractServiceCell.m */; };
 		04EF2C381E66978C00C21E55 /* Home_Contract_Phone.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EF2C321E66978C00C21E55 /* Home_Contract_Phone.png */; };
 		04EF2C391E66978C00C21E55 /* Home_Contract_Phone@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EF2C331E66978C00C21E55 /* Home_Contract_Phone@3x.png */; };
 		04EF2C3A1E66978C00C21E55 /* Home_Contract_QQ@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EF2C341E66978C00C21E55 /* Home_Contract_QQ@2x.png */; };
 		04EF2C3B1E66978C00C21E55 /* Home_Contract_QQ@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EF2C351E66978C00C21E55 /* Home_Contract_QQ@3x.png */; };
 		04EF2C3C1E66978C00C21E55 /* Home_Contract_WeChat@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EF2C361E66978C00C21E55 /* Home_Contract_WeChat@2x.png */; };
 		04EF2C3D1E66978C00C21E55 /* Home_Contract_WeChat@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EF2C371E66978C00C21E55 /* Home_Contract_WeChat@3x.png */; };
-		04EF2C401E669C4F00C21E55 /* UILabel+GRCopy.m in Sources */ = {isa = PBXBuildFile; fileRef = 04EF2C3F1E669C4F00C21E55 /* UILabel+GRCopy.m */; };
 		04EF2C471E66DDA800C21E55 /* Home_School_Deal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EF2C411E66DDA800C21E55 /* Home_School_Deal@2x.png */; };
 		04EF2C481E66DDA800C21E55 /* Home_School_Deal@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EF2C421E66DDA800C21E55 /* Home_School_Deal@3x.png */; };
 		04EF2C491E66DDA800C21E55 /* Home_School_Deal2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04EF2C431E66DDA800C21E55 /* Home_School_Deal2@2x.png */; };
@@ -407,17 +403,6 @@
 		04F841BA1E14B7CE00DEA1A0 /* GRDealFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F841851E14B7CE00DEA1A0 /* GRDealFooterView.m */; };
 		04F841BD1E14B7CE00DEA1A0 /* GRLoopAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F8418B1E14B7CE00DEA1A0 /* GRLoopAnimation.m */; };
 		04F841BE1E14B7CE00DEA1A0 /* GRPriceView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F8418D1E14B7CE00DEA1A0 /* GRPriceView.m */; };
-		04F841BF1E14B7CE00DEA1A0 /* GRProfit.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F841901E14B7CE00DEA1A0 /* GRProfit.m */; };
-		04F841C01E14B7CE00DEA1A0 /* GRADImageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F841931E14B7CE00DEA1A0 /* GRADImageCell.m */; };
-		04F841C61E14B7CE00DEA1A0 /* GRHotDiscussCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F8419E1E14B7CE00DEA1A0 /* GRHotDiscussCell.m */; };
-		04F841C81E14B7CE00DEA1A0 /* GRKLineCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F841A11E14B7CE00DEA1A0 /* GRKLineCell.m */; };
-		04F841C91E14B7CE00DEA1A0 /* GRNewHandSchoolFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F841A31E14B7CE00DEA1A0 /* GRNewHandSchoolFooterView.m */; };
-		04F841CA1E14B7CE00DEA1A0 /* GRRankCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F841A51E14B7CE00DEA1A0 /* GRRankCollectionViewCell.m */; };
-		04F841CB1E14B7CE00DEA1A0 /* GRRankCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04F841A61E14B7CE00DEA1A0 /* GRRankCollectionViewCell.xib */; };
-		04F841CC1E14B7CE00DEA1A0 /* GRRiseAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F841A81E14B7CE00DEA1A0 /* GRRiseAnimationView.m */; };
-		04F841CD1E14B7CE00DEA1A0 /* GRRiseButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F841AA1E14B7CE00DEA1A0 /* GRRiseButton.m */; };
-		04F841CE1E14B7CE00DEA1A0 /* GRSecondRankFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F841AC1E14B7CE00DEA1A0 /* GRSecondRankFooterView.m */; };
-		04F841CF1E14B7CE00DEA1A0 /* GRSystemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F841AE1E14B7CE00DEA1A0 /* GRSystemCell.m */; };
 		04F841D71E14D40900DEA1A0 /* Selected_Triangle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F841D51E14D40900DEA1A0 /* Selected_Triangle@2x.png */; };
 		04F841D81E14D40900DEA1A0 /* Selected_Triangle@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F841D61E14D40900DEA1A0 /* Selected_Triangle@3x.png */; };
 		04F841F21E14E43A00DEA1A0 /* Comment@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F841E61E14E43A00DEA1A0 /* Comment@2x.png */; };
@@ -427,9 +412,6 @@
 		04F841FE1E14F52D00DEA1A0 /* Like_Selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F841FC1E14F52D00DEA1A0 /* Like_Selected@2x.png */; };
 		04F841FF1E14F52D00DEA1A0 /* Like_Selected@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F841FD1E14F52D00DEA1A0 /* Like_Selected@3x.png */; };
 		04F842021E14FB9D00DEA1A0 /* GRChippedCarouselView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F842011E14FB9D00DEA1A0 /* GRChippedCarouselView.m */; };
-		04F8420D1E151A1B00DEA1A0 /* GRDiscussModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F8420C1E151A1B00DEA1A0 /* GRDiscussModel.m */; };
-		04F842101E151A6400DEA1A0 /* GRLikeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F8420F1E151A6400DEA1A0 /* GRLikeModel.m */; };
-		04F842131E151A7600DEA1A0 /* GRCommentModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F842121E151A7600DEA1A0 /* GRCommentModel.m */; };
 		04F9718A1E5A76F400121836 /* Mine_Total_Property@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F971881E5A76F400121836 /* Mine_Total_Property@2x.png */; };
 		04F9718B1E5A76F500121836 /* Mine_Total_Property@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F971891E5A76F400121836 /* Mine_Total_Property@3x.png */; };
 		04F971921E5A86D700121836 /* Ticket@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F971901E5A86D700121836 /* Ticket@2x.png */; };
@@ -747,8 +729,6 @@
 		046A237A1E0E1EBF002255D3 /* UIButton+GRButtonLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+GRButtonLayout.m"; sourceTree = "<group>"; };
 		046D3B361E580B98008A43D9 /* GRTransferAccountDetailHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRTransferAccountDetailHeaderView.h; sourceTree = "<group>"; };
 		046D3B371E580B98008A43D9 /* GRTransferAccountDetailHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRTransferAccountDetailHeaderView.m; sourceTree = "<group>"; };
-		046E72731E1632C200BD712E /* GRDiscusscellFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRDiscusscellFrame.h; sourceTree = "<group>"; };
-		046E72741E1632C200BD712E /* GRDiscusscellFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRDiscusscellFrame.m; sourceTree = "<group>"; };
 		046E72771E1653DB00BD712E /* UICountingLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UICountingLabel.h; sourceTree = "<group>"; };
 		046E72781E1653DB00BD712E /* UICountingLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UICountingLabel.m; sourceTree = "<group>"; };
 		046E727A1E16549200BD712E /* GRPropertyHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRPropertyHeaderView.h; sourceTree = "<group>"; };
@@ -1073,8 +1053,6 @@
 		04DAD7551E27BD150045E0A4 /* GRHotEvents.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRHotEvents.m; sourceTree = "<group>"; };
 		04DAD7571E27C18E0045E0A4 /* GRHotEventHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRHotEventHeader.h; sourceTree = "<group>"; };
 		04DAD7581E27C18E0045E0A4 /* GRHotEventHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRHotEventHeader.m; sourceTree = "<group>"; };
-		04DB13DF1E65267C00C785B0 /* GRHomeCycleImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRHomeCycleImage.h; sourceTree = "<group>"; };
-		04DB13E01E65267C00C785B0 /* GRHomeCycleImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRHomeCycleImage.m; sourceTree = "<group>"; };
 		04E229EB1E480EF400A964F0 /* GRSchoolClickDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRSchoolClickDetailViewController.h; sourceTree = "<group>"; };
 		04E229EC1E480EF400A964F0 /* GRSchoolClickDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRSchoolClickDetailViewController.m; sourceTree = "<group>"; };
 		04E229EF1E480F6F00A964F0 /* GRSchoolDetailCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRSchoolDetailCell.h; sourceTree = "<group>"; };
@@ -1128,16 +1106,12 @@
 		04EF2C291E668CD500C21E55 /* GRCalculateProfitLoss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRCalculateProfitLoss.m; sourceTree = "<group>"; };
 		04EF2C2C1E66948100C21E55 /* GRContractServiceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRContractServiceViewController.h; sourceTree = "<group>"; };
 		04EF2C2D1E66948100C21E55 /* GRContractServiceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRContractServiceViewController.m; sourceTree = "<group>"; };
-		04EF2C2F1E66955200C21E55 /* GRContractServiceCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRContractServiceCell.h; sourceTree = "<group>"; };
-		04EF2C301E66955200C21E55 /* GRContractServiceCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRContractServiceCell.m; sourceTree = "<group>"; };
 		04EF2C321E66978C00C21E55 /* Home_Contract_Phone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Home_Contract_Phone.png; sourceTree = "<group>"; };
 		04EF2C331E66978C00C21E55 /* Home_Contract_Phone@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home_Contract_Phone@3x.png"; sourceTree = "<group>"; };
 		04EF2C341E66978C00C21E55 /* Home_Contract_QQ@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home_Contract_QQ@2x.png"; sourceTree = "<group>"; };
 		04EF2C351E66978C00C21E55 /* Home_Contract_QQ@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home_Contract_QQ@3x.png"; sourceTree = "<group>"; };
 		04EF2C361E66978C00C21E55 /* Home_Contract_WeChat@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home_Contract_WeChat@2x.png"; sourceTree = "<group>"; };
 		04EF2C371E66978C00C21E55 /* Home_Contract_WeChat@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home_Contract_WeChat@3x.png"; sourceTree = "<group>"; };
-		04EF2C3E1E669C4F00C21E55 /* UILabel+GRCopy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+GRCopy.h"; sourceTree = "<group>"; };
-		04EF2C3F1E669C4F00C21E55 /* UILabel+GRCopy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+GRCopy.m"; sourceTree = "<group>"; };
 		04EF2C411E66DDA800C21E55 /* Home_School_Deal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home_School_Deal@2x.png"; sourceTree = "<group>"; };
 		04EF2C421E66DDA800C21E55 /* Home_School_Deal@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home_School_Deal@3x.png"; sourceTree = "<group>"; };
 		04EF2C431E66DDA800C21E55 /* Home_School_Deal2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home_School_Deal2@2x.png"; sourceTree = "<group>"; };
@@ -1188,27 +1162,6 @@
 		04F8418B1E14B7CE00DEA1A0 /* GRLoopAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRLoopAnimation.m; sourceTree = "<group>"; };
 		04F8418C1E14B7CE00DEA1A0 /* GRPriceView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRPriceView.h; sourceTree = "<group>"; };
 		04F8418D1E14B7CE00DEA1A0 /* GRPriceView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRPriceView.m; sourceTree = "<group>"; };
-		04F8418F1E14B7CE00DEA1A0 /* GRProfit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRProfit.h; sourceTree = "<group>"; };
-		04F841901E14B7CE00DEA1A0 /* GRProfit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRProfit.m; sourceTree = "<group>"; };
-		04F841921E14B7CE00DEA1A0 /* GRADImageCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRADImageCell.h; sourceTree = "<group>"; };
-		04F841931E14B7CE00DEA1A0 /* GRADImageCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRADImageCell.m; sourceTree = "<group>"; };
-		04F8419D1E14B7CE00DEA1A0 /* GRHotDiscussCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRHotDiscussCell.h; sourceTree = "<group>"; };
-		04F8419E1E14B7CE00DEA1A0 /* GRHotDiscussCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRHotDiscussCell.m; sourceTree = "<group>"; };
-		04F841A01E14B7CE00DEA1A0 /* GRKLineCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRKLineCell.h; sourceTree = "<group>"; };
-		04F841A11E14B7CE00DEA1A0 /* GRKLineCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRKLineCell.m; sourceTree = "<group>"; };
-		04F841A21E14B7CE00DEA1A0 /* GRNewHandSchoolFooterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRNewHandSchoolFooterView.h; sourceTree = "<group>"; };
-		04F841A31E14B7CE00DEA1A0 /* GRNewHandSchoolFooterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRNewHandSchoolFooterView.m; sourceTree = "<group>"; };
-		04F841A41E14B7CE00DEA1A0 /* GRRankCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRRankCollectionViewCell.h; sourceTree = "<group>"; };
-		04F841A51E14B7CE00DEA1A0 /* GRRankCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRRankCollectionViewCell.m; sourceTree = "<group>"; };
-		04F841A61E14B7CE00DEA1A0 /* GRRankCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GRRankCollectionViewCell.xib; sourceTree = "<group>"; };
-		04F841A71E14B7CE00DEA1A0 /* GRRiseAnimationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRRiseAnimationView.h; sourceTree = "<group>"; };
-		04F841A81E14B7CE00DEA1A0 /* GRRiseAnimationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRRiseAnimationView.m; sourceTree = "<group>"; };
-		04F841A91E14B7CE00DEA1A0 /* GRRiseButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRRiseButton.h; sourceTree = "<group>"; };
-		04F841AA1E14B7CE00DEA1A0 /* GRRiseButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRRiseButton.m; sourceTree = "<group>"; };
-		04F841AB1E14B7CE00DEA1A0 /* GRSecondRankFooterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRSecondRankFooterView.h; sourceTree = "<group>"; };
-		04F841AC1E14B7CE00DEA1A0 /* GRSecondRankFooterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRSecondRankFooterView.m; sourceTree = "<group>"; };
-		04F841AD1E14B7CE00DEA1A0 /* GRSystemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRSystemCell.h; sourceTree = "<group>"; };
-		04F841AE1E14B7CE00DEA1A0 /* GRSystemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRSystemCell.m; sourceTree = "<group>"; };
 		04F841D51E14D40900DEA1A0 /* Selected_Triangle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Selected_Triangle@2x.png"; sourceTree = "<group>"; };
 		04F841D61E14D40900DEA1A0 /* Selected_Triangle@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Selected_Triangle@3x.png"; sourceTree = "<group>"; };
 		04F841E61E14E43A00DEA1A0 /* Comment@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Comment@2x.png"; sourceTree = "<group>"; };
@@ -1219,12 +1172,6 @@
 		04F841FD1E14F52D00DEA1A0 /* Like_Selected@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Like_Selected@3x.png"; sourceTree = "<group>"; };
 		04F842001E14FB9D00DEA1A0 /* GRChippedCarouselView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRChippedCarouselView.h; sourceTree = "<group>"; };
 		04F842011E14FB9D00DEA1A0 /* GRChippedCarouselView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRChippedCarouselView.m; sourceTree = "<group>"; };
-		04F8420B1E151A1B00DEA1A0 /* GRDiscussModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRDiscussModel.h; sourceTree = "<group>"; };
-		04F8420C1E151A1B00DEA1A0 /* GRDiscussModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRDiscussModel.m; sourceTree = "<group>"; };
-		04F8420E1E151A6400DEA1A0 /* GRLikeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRLikeModel.h; sourceTree = "<group>"; };
-		04F8420F1E151A6400DEA1A0 /* GRLikeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRLikeModel.m; sourceTree = "<group>"; };
-		04F842111E151A7600DEA1A0 /* GRCommentModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GRCommentModel.h; sourceTree = "<group>"; };
-		04F842121E151A7600DEA1A0 /* GRCommentModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GRCommentModel.m; sourceTree = "<group>"; };
 		04F971881E5A76F400121836 /* Mine_Total_Property@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mine_Total_Property@2x.png"; sourceTree = "<group>"; };
 		04F971891E5A76F400121836 /* Mine_Total_Property@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mine_Total_Property@3x.png"; sourceTree = "<group>"; };
 		04F971901E5A86D700121836 /* Ticket@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ticket@2x.png"; sourceTree = "<group>"; };
@@ -2454,21 +2401,6 @@
 		047AAED61E2916A50049BC40 /* HomeCell */ = {
 			isa = PBXGroup;
 			children = (
-				04F841921E14B7CE00DEA1A0 /* GRADImageCell.h */,
-				04F841931E14B7CE00DEA1A0 /* GRADImageCell.m */,
-				04F8419D1E14B7CE00DEA1A0 /* GRHotDiscussCell.h */,
-				04F8419E1E14B7CE00DEA1A0 /* GRHotDiscussCell.m */,
-				04F841A01E14B7CE00DEA1A0 /* GRKLineCell.h */,
-				04F841A11E14B7CE00DEA1A0 /* GRKLineCell.m */,
-				04F841A41E14B7CE00DEA1A0 /* GRRankCollectionViewCell.h */,
-				04F841A51E14B7CE00DEA1A0 /* GRRankCollectionViewCell.m */,
-				04F841A61E14B7CE00DEA1A0 /* GRRankCollectionViewCell.xib */,
-				04F841AD1E14B7CE00DEA1A0 /* GRSystemCell.h */,
-				04F841AE1E14B7CE00DEA1A0 /* GRSystemCell.m */,
-				04EF2C2F1E66955200C21E55 /* GRContractServiceCell.h */,
-				04EF2C301E66955200C21E55 /* GRContractServiceCell.m */,
-				04EF2C3E1E669C4F00C21E55 /* UILabel+GRCopy.h */,
-				04EF2C3F1E669C4F00C21E55 /* UILabel+GRCopy.m */,
 			);
 			name = HomeCell;
 			sourceTree = "<group>";
@@ -2476,14 +2408,6 @@
 		047AAED71E2917D60049BC40 /* HomeView */ = {
 			isa = PBXGroup;
 			children = (
-				04F841A21E14B7CE00DEA1A0 /* GRNewHandSchoolFooterView.h */,
-				04F841A31E14B7CE00DEA1A0 /* GRNewHandSchoolFooterView.m */,
-				04F841A71E14B7CE00DEA1A0 /* GRRiseAnimationView.h */,
-				04F841A81E14B7CE00DEA1A0 /* GRRiseAnimationView.m */,
-				04F841A91E14B7CE00DEA1A0 /* GRRiseButton.h */,
-				04F841AA1E14B7CE00DEA1A0 /* GRRiseButton.m */,
-				04F841AB1E14B7CE00DEA1A0 /* GRSecondRankFooterView.h */,
-				04F841AC1E14B7CE00DEA1A0 /* GRSecondRankFooterView.m */,
 			);
 			name = HomeView;
 			sourceTree = "<group>";
@@ -2599,18 +2523,6 @@
 		04B1F4BF1E29AF97007EA659 /* HomeModel */ = {
 			isa = PBXGroup;
 			children = (
-				04F8418F1E14B7CE00DEA1A0 /* GRProfit.h */,
-				04F841901E14B7CE00DEA1A0 /* GRProfit.m */,
-				04F8420B1E151A1B00DEA1A0 /* GRDiscussModel.h */,
-				04F8420C1E151A1B00DEA1A0 /* GRDiscussModel.m */,
-				046E72731E1632C200BD712E /* GRDiscusscellFrame.h */,
-				046E72741E1632C200BD712E /* GRDiscusscellFrame.m */,
-				04F8420E1E151A6400DEA1A0 /* GRLikeModel.h */,
-				04F8420F1E151A6400DEA1A0 /* GRLikeModel.m */,
-				04F842111E151A7600DEA1A0 /* GRCommentModel.h */,
-				04F842121E151A7600DEA1A0 /* GRCommentModel.m */,
-				04DB13DF1E65267C00C785B0 /* GRHomeCycleImage.h */,
-				04DB13E01E65267C00C785B0 /* GRHomeCycleImage.m */,
 			);
 			name = HomeModel;
 			sourceTree = "<group>";
@@ -3811,7 +3723,6 @@
 				0409477E1E2610C400619D77 /* Tabbar_Home_Default@3x.png in Resources */,
 				045492C91E2DFA510090E148 /* Mine_System_Message@2x.png in Resources */,
 				04EC46201E63F5C8001F8B9D /* GoldRush_Guide_2@2x.png in Resources */,
-				04F841CB1E14B7CE00DEA1A0 /* GRRankCollectionViewCell.xib in Resources */,
 				04F971B91E5AC15D00121836 /* Mine_Message_Warn@3x.png in Resources */,
 				04C01F6A1E4D977400137F14 /* Discover_Deal_Inivate@2x.png in Resources */,
 				045492CA1E2DFA510090E148 /* Mine_System_Message@3x.png in Resources */,
@@ -4032,7 +3943,6 @@
 				797450E61E2F46900062F09A /* GRProProductNoTableViewCell.m in Sources */,
 				799D8BBF1E260ACE00DD3217 /* GRBankViewController.m in Sources */,
 				04B1F4E91E29EEE5007EA659 /* GRDynamicViewController.m in Sources */,
-				04F841CA1E14B7CE00DEA1A0 /* GRRankCollectionViewCell.m in Sources */,
 				040202031E5ED9D500371EF6 /* GRAFNSessionManager.m in Sources */,
 				04E236FF1E6016D1006B20B1 /* GRMineViewController.m in Sources */,
 				045492A81E2DE3F90090E148 /* GROutOfDateCell.m in Sources */,
@@ -4066,15 +3976,12 @@
 				04D43E471E2490E4007FB4BF /* GRIntroduceHeaderView.m in Sources */,
 				045492BE1E2DF75B0090E148 /* GRMessageCenterModel.m in Sources */,
 				04C7AFD81E49DA5C00589A48 /* GRJJChangePasswordViewController.m in Sources */,
-				04EF2C311E66955200C21E55 /* GRContractServiceCell.m in Sources */,
 				04B1F4EC1E29EF1F007EA659 /* GRReplyViewController.m in Sources */,
 				04B73BCC1E1F3F5A006AEE19 /* GRTheNewestOpinion.m in Sources */,
 				797450E91E2F4B2E0062F09A /* GRProProductDetailTableViewCell.m in Sources */,
-				04F841CD1E14B7CE00DEA1A0 /* GRRiseButton.m in Sources */,
 				04EC46161E63F194001F8B9D /* GRGuideViewController.m in Sources */,
 				04A32D221E56D68800E1660B /* GRJDPaySignViewController.m in Sources */,
 				04B1F4FF1E29FC3F007EA659 /* GRMineDealRingFansModel.m in Sources */,
-				04DB13E11E65267C00C785B0 /* GRHomeCycleImage.m in Sources */,
 				04B1F4D01E29C45A007EA659 /* GRTheNewestViewController.m in Sources */,
 				797450E01E2F33FE0062F09A /* GRProProductTableViewCell.m in Sources */,
 				04F840261E14AD5900DEA1A0 /* GRCarouselViewController.m in Sources */,
@@ -4084,7 +3991,6 @@
 				04F841B31E14B7CE00DEA1A0 /* GRDealViewController.m in Sources */,
 				0454928A1E2C55310090E148 /* GRReplyCommentCellFrame.m in Sources */,
 				046158FE1E13B6A70019F2A7 /* GRAnalyst.m in Sources */,
-				04F841C01E14B7CE00DEA1A0 /* GRADImageCell.m in Sources */,
 				04B73BE11E1FAEA1006AEE19 /* GRHistoryListViewController.m in Sources */,
 				04F842021E14FB9D00DEA1A0 /* GRChippedCarouselView.m in Sources */,
 				04EB93E51E2F2BBC003D1596 /* GRHDRegister.m in Sources */,
@@ -4097,7 +4003,6 @@
 				04C01F501E4D523300137F14 /* GRUnexpiredThicketCell.m in Sources */,
 				040947901E263E6F00619D77 /* GRTextField.m in Sources */,
 				045492991E2DD9BA0090E148 /* GRThicketsViewController.m in Sources */,
-				04EF2C401E669C4F00C21E55 /* UILabel+GRCopy.m in Sources */,
 				04D43E501E24ADB3007FB4BF /* GRUserProfitCell.m in Sources */,
 				04EF2C2E1E66948100C21E55 /* GRContractServiceViewController.m in Sources */,
 				04746A1D1E110AF000EBD0A5 /* GRHeaderCell.m in Sources */,
@@ -4111,7 +4016,6 @@
 				04746A211E11253300EBD0A5 /* GROpenAccountView.m in Sources */,
 				790F9DFC1E15072800F7794E /* GRAlterCardView.m in Sources */,
 				04B1F4EF1E29EF52007EA659 /* GRMineAttentionViewController.m in Sources */,
-				04F841C81E14B7CE00DEA1A0 /* GRKLineCell.m in Sources */,
 				04F841BD1E14B7CE00DEA1A0 /* GRLoopAnimation.m in Sources */,
 				04F05E5D1E31E8150091D161 /* GRRechargeBottomView.m in Sources */,
 				0499578B1E28E9D600E473F6 /* GRDealRingViewController.m in Sources */,
@@ -4134,7 +4038,6 @@
 				04DAD70C1E27833B0045E0A4 /* GRIviteFriendCell.m in Sources */,
 				04458A671E208ECC008D4C24 /* GRScrollViewController.m in Sources */,
 				04CBDFAD1E0A1E58007BED19 /* GRUtils.m in Sources */,
-				04F841CC1E14B7CE00DEA1A0 /* GRRiseAnimationView.m in Sources */,
 				04B1F4DE1E29D823007EA659 /* GRDynamicStateModel.m in Sources */,
 				04A32D1F1E56C48900E1660B /* GRWithDrawBank.m in Sources */,
 				7969E3241E55714C005A1CC6 /* GRRulesAlterView.m in Sources */,
@@ -4181,7 +4084,6 @@
 				04FDF1111E5683C8000DFFDB /* PSCityPickerView.m in Sources */,
 				047988F61E45D9CC00FC9611 /* GRJudgeBnakType.m in Sources */,
 				04DAD7591E27C18E0045E0A4 /* GRHotEventHeader.m in Sources */,
-				04F842101E151A6400DEA1A0 /* GRLikeModel.m in Sources */,
 				795F2D0D1E0A52B7004893AC /* GRLoginScrollView+Touch.m in Sources */,
 				045E96191E09111B00647E68 /* UIView+GRExtension.m in Sources */,
 				79D357561E23292F0093F85F /* GRSetPasswordViewController.m in Sources */,
@@ -4192,7 +4094,6 @@
 				04EB93F41E2F5D34003D1596 /* GRHDProductModel.m in Sources */,
 				047AAED51E290ADA0049BC40 /* GRDealRingHeaderModel.m in Sources */,
 				797450E31E2F3E960062F09A /* GRProProductTotalTableViewCell.m in Sources */,
-				04F841C61E14B7CE00DEA1A0 /* GRHotDiscussCell.m in Sources */,
 				046E72791E1653DB00BD712E /* UICountingLabel.m in Sources */,
 				0409478A1E26312A00619D77 /* GRAddBankCardView.m in Sources */,
 				04EB93FC1E306E42003D1596 /* GRWithDrawViewController.m in Sources */,
@@ -4214,7 +4115,6 @@
 				04CC2F531E236750007E9D51 /* GRHoldPositionCell.m in Sources */,
 				04E229FB1E4839DE00A964F0 /* GRJJLoginViewController.m in Sources */,
 				04EB93ED1E2F464C003D1596 /* GRHDLoginViewController.m in Sources */,
-				04F841BF1E14B7CE00DEA1A0 /* GRProfit.m in Sources */,
 				04B00A5D1E1B9A88009A0682 /* GRAnimationText.m in Sources */,
 				04BEBDCD1E4C11EE0014606F /* GRHDThicketsModel.m in Sources */,
 				7915935D1E1E536900396F3D /* GRPropertyResultView.m in Sources */,
@@ -4227,7 +4127,6 @@
 				045492D11E2E20E40090E148 /* GRUserDefault.m in Sources */,
 				04BD09641E177408002F7326 /* GRFeedBackQuesionViewController.m in Sources */,
 				04E22A021E485A9A00A964F0 /* GRJJGetCodeView.m in Sources */,
-				04F841C91E14B7CE00DEA1A0 /* GRNewHandSchoolFooterView.m in Sources */,
 				045492D51E2E5A280090E148 /* GRFeedBackCell.m in Sources */,
 				04C7AFE81E4B037C00589A48 /* GRJJHoldPositionModel.m in Sources */,
 				79A306781E20AB98009BCE82 /* GRSetPasswordScrollView.m in Sources */,
@@ -4256,7 +4155,6 @@
 				04FF0B091E1CE6980081267D /* GRCreateCostBtn.m in Sources */,
 				04E22A081E48B5D900A964F0 /* GRJJRegisterViewController.m in Sources */,
 				04B382131E595DAE00021C2A /* GRRechargeViewController.m in Sources */,
-				046E72751E1632C200BD712E /* GRDiscusscellFrame.m in Sources */,
 				04BEBDC91E4BF4380014606F /* GRJJPropertyDealDetail.m in Sources */,
 				046E727C1E16549200BD712E /* GRPropertyHeaderView.m in Sources */,
 				0409479A1E26729700619D77 /* GRTransferAccountDetailCell.m in Sources */,
@@ -4287,24 +4185,20 @@
 				043EA3BC1E0BDACC00615E9E /* HeadLine.m in Sources */,
 				791593571E1E410C00396F3D /* GRPropertyLoopAnimationView.m in Sources */,
 				04E229F81E4839CE00A964F0 /* GRJJTestGetCodeViewController.m in Sources */,
-				04F8420D1E151A1B00DEA1A0 /* GRDiscussModel.m in Sources */,
 				04D43E531E24B0F6007FB4BF /* GRBottomFellowView.m in Sources */,
 				04F841B21E14B7CE00DEA1A0 /* GRDealADViewController.m in Sources */,
 				04FA37F81E57D70B00B9A440 /* GRDateFormatter.m in Sources */,
 				046D3B381E580B98008A43D9 /* GRTransferAccountDetailHeaderView.m in Sources */,
 				04D43E561E24B30F007FB4BF /* GRProfitStatusCell.m in Sources */,
-				04F842131E151A7600DEA1A0 /* GRCommentModel.m in Sources */,
 				0410506B1E45CB9D00AB8A04 /* GRTransferAccountDetailNoDataCell.m in Sources */,
 				7918BD1C1E29C4CC00D95840 /* GR_KLine.m in Sources */,
 				04CC2F3E1E233312007E9D51 /* GRParticipateChippedHeader.m in Sources */,
 				04F615BB1E11D713006FD79A /* GRSettingItem.m in Sources */,
 				04C7AFE01E4ADF7700589A48 /* GRJJPropertyHoldPositionDetailCell.m in Sources */,
 				04C9BF581E27310E00ECB1ED /* NSString+GRExtension.m in Sources */,
-				04F841CF1E14B7CE00DEA1A0 /* GRSystemCell.m in Sources */,
 				79A3067F1E20AC0E009BCE82 /* GRSetPasswordScrollView+Touch.m in Sources */,
 				790E62EC1E1B9EA700689751 /* GRProProductView.m in Sources */,
 				047469FC1E109C1800EBD0A5 /* GRLoginScrollView.m in Sources */,
-				04F841CE1E14B7CE00DEA1A0 /* GRSecondRankFooterView.m in Sources */,
 				04A32D291E56FCF100E1660B /* GRJDRechargeViewController.m in Sources */,
 				04F05E4E1E31BEDB0091D161 /* GRRechargeTopButtonView.m in Sources */,
 				04C7AFD51E499CAA00589A48 /* GRJJProductModel.m in Sources */,
